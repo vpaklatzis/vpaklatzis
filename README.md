@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vpaklatzis
-- 👀 I’m interested in Software Development and the open source world!
-- 🌱 I’m currently learning Javascript, Java, Typescript, React and Angular!
-- 💞️ I’m looking to collaborate on open source projects!
+- 👀 Interested in Software Development and the open source world!
+- 🌱 Currently learning Java, Javascript, Typescript, React, Angular and Node.js!
+- 💞️ Enjoy collaborating on open source projects!
 - 📫 How to reach me: -> vpaklatzis@gmail.com
                        -> www.linkedin.com/in/vaggelispaklatzis
 
