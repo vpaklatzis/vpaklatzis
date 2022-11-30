@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vpaklatzis, an Associate Software Engineer @ Profile Software and a Digital Systems undergraduate student @ University of Piraeus.
 - 👀 Interested in Software Development, DevOps, Cloud Services and the open source world!
-- 🌱 Currently learning Java, Spring, Spring Boot, Spring Cloud, Go, Microservices, RabbitMQ, Docker, MySQL, MongoDB, Redis, React and Node.js!
+- 🌱 Currently learning Java, Quarkus, Spring, Spring Boot, Spring Cloud, Go, Microservices, RabbitMQ, Docker, SQL, NoSQL, Redis, React and Node.js!
 - 💞️ Enjoy collaborating on open source projects!
 - 📫 How to reach me: -> vpaklatzis@gmail.com
                        -> www.linkedin.com/in/vaggelispaklatzis
